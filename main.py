@@ -1,3 +1,3 @@
-numero = 5
-if numero > 0:
-    print('numero positivo')
+nota = 7
+if nota >= 6:
+    print('aprovado')
