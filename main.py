@@ -1,3 +1,3 @@
-nota = 7
-if nota >= 6:
-    print('aprovado')
+nome = 'Júlia'
+if nome == 'Júlia' :
+    print('Bem-vinda, Júlia!')
